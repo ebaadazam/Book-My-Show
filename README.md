@@ -1,7 +1,7 @@
 ##### Book-My-Show-Python-Project
-#####We enjoy going to the movies. But do you know how do you virtually select a Ticket and book it. How does it not show the #####seats which are booked? How does it cut cost according to certain scenarios for certain seats and rows? 
-#####It would be interesting to mimic that. Isn’t it?
-#####That is what we have done!
+##### We enjoy going to the movies. But do you know how do you virtually select a Ticket and book it. How does it not show the ##### seats which are booked? How does it cut cost according to certain scenarios for certain seats and rows? 
+##### It would be interesting to mimic that. Isn’t it?
+##### That is what we have done!
 A cinema Hall with 7 Rows and 8 seats. The S shows the Vacant Seat here and the B shows the Reserved Seat. 
 
 When I buy a Ticket It will ask you the row number and column number for the ticket you are booking. On the basis of the Rules it should show you the Price for that seat and ask If you want to book it.
